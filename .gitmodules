@@ -74,6 +74,3 @@
 	path = rats
 	url = https://github.com/dreamworksanimation/rats.git
 	branch = main
-[submodule "moonray/materialx_shaders"]
-	path = moonray/materialx_shaders
-	url = https://github.com/dreamworksanimation/materialx_shaders.git
