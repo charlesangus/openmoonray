@@ -81,7 +81,6 @@ find_package(TBB REQUIRED)
 # ================================================
 add_subdirectory(arras)
 add_subdirectory(moonray)
-add_subdirectory(rats)
 add_subdirectory(scripts)
 
 if(GLD STREQUAL "$ENV{STUDIO}")

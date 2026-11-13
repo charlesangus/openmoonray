@@ -13,7 +13,6 @@ list(APPEND CMAKE_MODULE_PATH ${CMAKE_CURRENT_SOURCE_DIR}/cmake)
 set(Building_ArrasCore TRUE)
 
 add_subdirectory(arras4_core)
-add_subdirectory(distributed)
 if (${BUILD_QT_APPS})
     add_subdirectory(arras_render)
 endif()
